@@ -1,13 +1,7 @@
  
-<<<<<<< HEAD
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=415fa2&text=%20&section=header&reversal=true"/>
 
 <div align="center"><p>👾👾👾Olá! Eu sou o Fabricio Belam 👾👾👾<div>
-=======
- <img width=50% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=415fa2&text=%20&section=header&reversal=true"/>
-
-###👾👾👾Olá! Eu sou o Fabricio Belam 👾👾👾
->>>>>>> 0b210250aa5834a96bbe1904b557611025d1f68f
 
 <br>
 
@@ -29,8 +23,6 @@
 
 <a href="https://www.linkedin.com/in/fabricio-belam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<<<<<<< HEAD
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=415fa2&text=%20&section=footer&reversal=true"/>
-=======
-<img width=50% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=415fa2&text=%20&section=footer&reversal=true"/>
->>>>>>> 0b210250aa5834a96bbe1904b557611025d1f68f
+
+
